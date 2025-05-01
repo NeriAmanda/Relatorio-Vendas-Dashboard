@@ -1,0 +1,100 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/1.2.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY24SU10",
+      "reportVersionAtImport": "5.63",
+      "type": "SharedResources"
+    }
+  },
+  "layoutOptimization": "None",
+  "objects": {
+    "section": [
+      {
+        "properties": {
+          "verticalAlignment": {
+            "expr": {
+              "Literal": {
+                "Value": "'Top'"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "outspacePane": [
+      {
+        "properties": {
+          "expanded": {
+            "expr": {
+              "Literal": {
+                "Value": "false"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "resourcePackages": [
+    {
+      "name": "SharedResources",
+      "type": "SharedResources",
+      "items": [
+        {
+          "name": "CY24SU10",
+          "path": "BaseThemes/CY24SU10.json",
+          "type": "BaseTheme"
+        }
+      ]
+    },
+    {
+      "name": "RegisteredResources",
+      "type": "RegisteredResources",
+      "items": [
+        {
+          "name": "13._Dashboard_de_Vendas5799208509676524.png",
+          "path": "13._Dashboard_de_Vendas5799208509676524.png",
+          "type": "Image"
+        },
+        {
+          "name": "27.Capa_Vendas21958638104341222.png",
+          "path": "27.Capa_Vendas21958638104341222.png",
+          "type": "Image"
+        },
+        {
+          "name": "Imagem110017556218267842.png",
+          "path": "Imagem110017556218267842.png",
+          "type": "Image"
+        },
+        {
+          "name": "shopping0007559965951079439.png",
+          "path": "shopping0007559965951079439.png",
+          "type": "Image"
+        },
+        {
+          "name": "acquisition_(1)5553096821697328.png",
+          "path": "acquisition_(1)5553096821697328.png",
+          "type": "Image"
+        },
+        {
+          "name": "filter_limpador22152990818374063.png",
+          "path": "filter_limpador22152990818374063.png",
+          "type": "Image"
+        },
+        {
+          "name": "coupon_(1)9112472029231874.png",
+          "path": "coupon_(1)9112472029231874.png",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "useStylableVisualContainerHeader": true,
+    "defaultDrillFilterOtherVisuals": true,
+    "allowChangeFilterTypes": true,
+    "useEnhancedTooltips": true,
+    "useDefaultAggregateDisplayName": true
+  }
+}
