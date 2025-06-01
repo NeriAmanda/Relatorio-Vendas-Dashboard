@@ -1,5 +1,5 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/1.2.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/1.3.0/schema.json",
   "themeCollection": {
     "baseTheme": {
       "name": "CY24SU10",
@@ -78,13 +78,13 @@
           "type": "Image"
         },
         {
-          "name": "filter_limpador22152990818374063.png",
-          "path": "filter_limpador22152990818374063.png",
+          "name": "coupon_(1)9112472029231874.png",
+          "path": "coupon_(1)9112472029231874.png",
           "type": "Image"
         },
         {
-          "name": "coupon_(1)9112472029231874.png",
-          "path": "coupon_(1)9112472029231874.png",
+          "name": "clear-filter08309973126048653.png",
+          "path": "clear-filter08309973126048653.png",
           "type": "Image"
         }
       ]
