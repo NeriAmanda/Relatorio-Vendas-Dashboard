@@ -41,5 +41,8 @@
 
 - Cards para exibição de KPIs chave
 
+<h2 align="justify"> 📊 Acesse o Dashboard Interativo: </h2>
+💻 https://app.powerbi.com/view?r=eyJrIjoiNjliYzVhZDEtNDgyNi00MDFkLTk5Y2MtNGM2NjdjZDE0Yzk2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 <h4 align="justify">📚 Sinta-se à vontade para utilizar este repositório como base para criar suas próprias análises e praticar.</h4>
 <h4 align="justify">💬 Estou aberta a trocas e sugestões — será um prazer conversar sobre ideias, melhorias ou novas abordagens para os dados!</h4>
